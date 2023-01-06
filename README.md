@@ -4,7 +4,8 @@
 #강의준비
 > 자료구조
 > 소프트웨어 사고기법과 코딩
->   파이썬 프로그램과 computatonal thnking?
+    파이썬 프로그램 
+    computatonal thnking?
 
 
 #교재개발
